@@ -1,16 +1,30 @@
-## Hi there 👋
+## 👋 Hi, I'm Rohit Dhurwe
 
-<!--
-**rohit47dhurwe/rohit47dhurwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Java Developer | Spring Boot | REST APIs**  
+🎓 Computer Engineering Graduate  
+📍 Pune, Maharashtra
 
-Here are some ideas to get you started:
+### 🛠 Technical Skills
+- **Languages:** Java, SQL, MongoDB
+- **Frameworks:** Spring Boot, REST APIs
+- **Tools:** Git, GitHub, Maven, VS Code, Thunder Client
+- **Concepts:** OOP, Data Structures, Algorithms, CRUD Operations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Projects
+
+#### [Student Management System](https://github.com/rohit47dhurwe/student-management-system)
+- **Spring Boot REST API** with full CRUD operations
+- **Java Console Application** with OOP principles
+- Complete student record management system
+
+### 📫 Connect with Me
+- 📧 Email: rohitdhurwe.rd@gmail.com
+- 💼 LinkedIn: [Rohit Dhurwe](https://linkedin.com/in/rohit-dhurwe-524520289)
+- 🐙 GitHub: [rohit47dhurwe](https://github.com/rohit47dhurwe)
+
+### 🎯 Currently
+- 🔍 Seeking Java Developer opportunities
+- 📚 Expanding my Spring Boot skills
+- 💡 Building real-world projects
+
+⭐ *"Every line of code brings me closer to my goals"*
